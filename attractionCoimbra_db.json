@@ -204,20 +204,22 @@
         "type": "museum"
     },
     {
-        "address": "6 trinity street",
+        "address": "R. do Arco Almedina 11",
         "area": "centre",
         "entrance fee": "free",
         "id": "13",
         "location": [
-            52.206084,
-            0.118268
+            40.209081,
+            -8.428777
         ],
-        "name": "cambridge contemporary art",
-        "openhours": "it opens from 11:00 a.m. to 4:00 p.m. on sunday, and from 09:00 a.m. to 5:30 p.m. from monday to saturday",
-        "phone": "01223324222",
-        "postcode": "cb21su",
+        "name": "Centro de Arte Contemporânea de Coimbra",
+        "openhours": "Aberto todos os dias das 10:00h às 18:00h, exceto às segundas-feiras.",
+        "phone": "239828052",
+        "postcode": "3000-179",
         "pricerange": "free",
-        "type": "museum"
+        "type": "museum",
+        "idMultiWoz": "13",
+        "nameMultiWoz": "cambridge contemporary art"
     },
     {
         "address": "the old pumping station, cheddars lane",
