@@ -646,20 +646,22 @@
         "type": "restaurant"
     },
     {
-        "address": "36 Saint Andrews Street",
+        "address": "Rua Irma Lucia Lote 6, Loja 8",
         "area": "centre",
         "food": "japanese",
         "id": "12638",
         "introduction": "",
         "location": [
-            52.203,
-            0.12375
+            40.195673,
+            -8.400876
         ],
-        "name": "wagamama",
-        "phone": "01223462354",
-        "postcode": "cb23ar",
+        "name": "Peculiar Sushi or Steak",
+        "phone": "912525551",
+        "postcode": "3030-491",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "12638",
+        "nameMultiWoz": "wagamama"
     },
     {
         "address": "12 Norfolk Street City Centre",
