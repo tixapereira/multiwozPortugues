@@ -1282,20 +1282,22 @@
         "type": "restaurant"
     },
     {
-        "address": "Cambridge City Football Club Milton Road Chesterton",
+        "address": "R. Dr. Manuel Rodrigues 39",
         "area": "north",
         "id": "19262",
-        "introduction": "located in cambridge city football club, city stop restaurant serve a variety of english and italian dishes as well as offering a selection of vegetarian options catering for corporate events and private parties of up to 100 guests is available upon request.",
+        "introduction": "Os restaurantes “Dux” são verdadeiras Tabernas Urbanas e ainda que tenham em comum a variedade de petiscos e vinhos, cada espaço tem uma identidade própria.",
         "location": [
-            52.215157,
-            0.125015
+            40.213565,
+            -8.432809
         ],
-        "name": "city stop restaurant",
-        "phone": "01223363270",
-        "postcode": "cb41uy",
+        "name": "Dux Taberna Urbana",
+        "phone": "239093723",
+        "postcode": "3000-226",
         "pricerange": "expensive",
         "food": "european",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19262",
+        "nameMultiWoz": "city stop restaurant"
     },
     {
         "address": "169 High Street Chesterton Chesterton",
