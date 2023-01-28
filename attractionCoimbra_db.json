@@ -1104,20 +1104,22 @@
         "type": "theatre"
     },
     {
-        "address": "251a chesterton road",
+        "address": "Rio Mondego",
         "area": "centre",
-        "entrance fee": "?",
+        "entrance fee": "free",
         "id": "67",
         "location": [
-            52.211939,
-            0.118661
+            40.206435,
+            -8.430249
         ],
-        "name": "the cambridge punter",
-        "openhours": "?",
-        "phone": "07807718591",
-        "postcode": "cb41as",
-        "pricerange": "?",
-        "type": "boat"
+        "name": "Ponte de Santa Clara",
+        "openhours": "Aberto todos os dias, 24h.",
+        "phone": "?",
+        "postcode": "?",
+        "pricerange": "free",
+        "type": "boat",
+        "idMultiWoz": "67",
+        "nameMultiWoz": "the cambridge punter"
     },
     {
         "address": "colville road, cherry hinton",
