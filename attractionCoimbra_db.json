@@ -924,20 +924,22 @@
         "type": "boat"
     },
     {
-        "address": "anglia ruskin university, east road",
+        "address": "R. Dr. Manuel Rodrigues 5",
         "area": "centre",
         "entrance fee": "free",
         "id": "56",
         "location": [
-            52.20571,
-            0.131061
+            40.214008,
+            -8.432018
         ],
-        "name": "ruskin gallery",
-        "openhours": "?",
-        "phone": "01245493131",
-        "postcode": "cb11pt",
+        "name": "Casa da Mutualidade",
+        "openhours": "aberto de segunda a sexta das 09:00 às 13:00 e das 14:00 às 18:00.",
+        "phone": "239828055",
+        "postcode": "3000-258",
         "pricerange": "free",
-        "type": "museum"
+        "type": "museum",
+        "idMultiWoz": "56",
+        "nameMultiWoz": "ruskin gallery"
     },
     {
         "address": "the belfast yard, coldham's road",
