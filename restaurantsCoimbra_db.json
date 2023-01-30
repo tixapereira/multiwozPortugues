@@ -1,19 +1,21 @@
 [
     {
-        "address": "Regent Street City Centre",
+        "address": "Praça República 30",
         "area": "centre",
         "food": "italian",
         "id": "19210",
-        "introduction": "Pizza hut is a large chain with restaurants nationwide offering convenience pizzas pasta and salads to eat in or take away",
+        "introduction": "Pizza hut é uma grande cadeia com restaurantes em todo o país que oferece massas e saladas de pizzas de conveniência para comer ou levar",
         "location": [
-            52.20103,
-            0.126023
+            40.209227,
+            -8.419224
         ],
-        "name": "pizza hut city centre",
-        "phone": "01223323737",
-        "postcode": "cb21ab",
+        "name": "pizza hut",
+        "phone": "222444222",
+        "postcode": "3000-343",
         "pricerange": "cheap",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19210",
+        "nameMultiWoz": "pizza hut city centre"
     },
     {
         "address": "R. Dom Manuel I 3A",
