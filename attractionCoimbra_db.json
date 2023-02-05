@@ -564,18 +564,18 @@
         "type": "college"
     },
      {
-        "address": "Rua Inácio Duarte 65",
+        "address": "Rua da Sofia 174",
         "area": "centre",
         "entrance fee": "free",
         "id": "34",
         "location": [
-            40.210272,
-            -8.424110
+            40.213996,
+            -8.431258
         ],
-        "name": "Colégio de Jesus",
-        "openhours": "aberto todos os dias das 10h30 às 18h30.",
-        "phone": "239854350",
-        "postcode": "3000-481",
+        "name": "Colégio da Graça",
+        "openhours": "?",
+        "phone": "239857095",
+        "postcode": "3000-229",
         "pricerange": "free",
         "type": "college",
         "idMultiWoz": "34",
