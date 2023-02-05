@@ -563,21 +563,23 @@
         "pricerange": "free",
         "type": "college"
     },
-    {
-        "address": "jesus lane",
+     {
+        "address": "Rua Inácio Duarte 65",
         "area": "centre",
         "entrance fee": "free",
         "id": "34",
         "location": [
-            52.209353,
-            0.125342
+            40.210272,
+            -8.424110
         ],
-        "name": "jesus college",
-        "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
-        "phone": "01223339485",
-        "postcode": "cb58bl",
+        "name": "Colégio de Jesus",
+        "openhours": "aberto todos os dias das 10h30 às 18h30.",
+        "phone": "239854350",
+        "postcode": "3000-481",
         "pricerange": "free",
-        "type": "college"
+        "type": "college",
+        "idMultiWoz": "34",
+        "nameMultiWoz": "jesus college"
     },
     {
         "address": "between victoria road and the river",
