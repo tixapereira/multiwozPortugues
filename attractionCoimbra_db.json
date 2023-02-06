@@ -696,20 +696,22 @@
         "type": "museum"
     },
     {
-        "address": "magdalene street",
-        "area": "west",
+        "address": "R. Frei Tomé de Jesus 11",
+        "area": "east",
         "entrance fee": "free",
         "id": "42",
         "location": [
-            52.210403,
-            0.115803
+            40.215016,
+            -8.427000
         ],
-        "name": "magdalene college",
-        "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
-        "phone": "01223332138",
-        "postcode": "cb30ag",
+        "name": "Colégio de São José",
+        "openhours": "aberto de segunda a sexta das 07:45 às 18:45.",
+        "phone": "239852330",
+        "postcode": "3000-195",
         "pricerange": "free",
-        "type": "college"
+        "type": "college",
+        "idMultiWoz": "42",
+        "nameMultiWoz": "magdalene college"
     },
     {
         "address": "milton country park, milton",
