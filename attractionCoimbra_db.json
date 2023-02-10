@@ -156,20 +156,22 @@
         "type": "museum"
     },
     {
-        "address": "6 saint edward's passage",
+        "address": "R. Padre António Vieira, nº1, edifício da AAC",
         "area": "centre",
         "entrance fee": "?",
         "id": "10",
         "location": [
-            52.2034781571435,
-            0.119176917855308
+            40.209821,
+            -8.420977
         ],
-        "name": "cambridge arts theatre",
+        "name": "Círculo de Iniciação Teatral da Academia de Coimbra",
         "openhours": "?",
-        "phone": "01223503333",
-        "postcode": "cb23pj",
+        "phone": "933956833",
+        "postcode": "3000-315",
         "pricerange": "?",
-        "type": "theatre"
+        "type": "theatre",
+        "idMultiWoz": "10",
+        "nameMultiWoz": "cambridge arts theatre"
     },
     {
         "address": "5 greens road",
