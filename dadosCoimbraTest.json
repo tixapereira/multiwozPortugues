@@ -67931,5 +67931,3981 @@
             "utterance": "O endereço é R. da Moeda 20 com um número de telefone 911925961. O código postal é 3000-282."
           }
         ]
+      },
+      {
+        "dialogue_id": "MUL1248.json",
+        "services": [
+          "restaurant",
+          "taxi",
+          "hotel"
+        ],
+        "turns": [
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_hotel",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "hotel-pricerange": [
+                      "expensive"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "0",
+            "utterance": "Olá, pode dar-me algumas informações sobre um lugar para ficar em Coimbra? Eu preferia um lugar caro."
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "1",
+            "utterance": "Claro, existem 5 hotéis caros em Coimbra. Há alguma área que prefira?"
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_hotel",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "hotel-pricerange": [
+                      "expensive"
+                    ],
+                    "hotel-stars": [
+                      "3"
+                    ],
+                    "hotel-type": [
+                      "guesthouse"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "2",
+            "utterance": "Nenhuma área específica, mas eu gostaria de uma residencial, em vez de um hotel. Gostaria também de um lugar com 3 estrelas."
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "3",
+            "utterance": "Existem 2 hotéis de três estrelas, gostaria que eu reservasse um?"
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_hotel",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "hotel-internet": [
+                      "yes"
+                    ],
+                    "hotel-pricerange": [
+                      "moderate"
+                    ],
+                    "hotel-stars": [
+                      "3"
+                    ],
+                    "hotel-type": [
+                      "hotel"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_restaurant",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "4",
+            "utterance": "Não. Existem hoteis de três estrelas disponíveis a um preço moderado que incluem wifi gratuito?"
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "5",
+            "utterance": "Sim, existem 3: Hotel Astória, Hotel Oslo, e Oryza Guest House& Suites."
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [
+                  {
+                    "slot": "hotel-name",
+                    "value": "Hotel Astória"
+                  }
+                ],
+                "state": {
+                  "active_intent": "book_hotel",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "hotel-bookday": [
+                      "tuesday"
+                    ],
+                    "hotel-bookpeople": [
+                      "5"
+                    ],
+                    "hotel-bookstay": [
+                      "2"
+                    ],
+                    "hotel-internet": [
+                      "yes"
+                    ],
+                    "hotel-name": [
+                      "Hotel Astória"
+                    ],
+                    "hotel-pricerange": [
+                      "moderate"
+                    ],
+                    "hotel-stars": [
+                      "3"
+                    ],
+                    "hotel-type": [
+                      "hotel"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_hospital",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "6",
+            "utterance": "Que tal o Hotel Astória para 5 pessoas durante 2 noites, a começar na terça-feira?"
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "7",
+            "utterance": "A reserva foi bem sucedida. O endereço é Av. Émidio Navarro 21. O código postal é 3000-150. O número de referência é: 98WBW794."
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_restaurant",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "restaurant-area": [
+                      "east"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "hotel-bookday": [
+                      "tuesday"
+                    ],
+                    "hotel-bookpeople": [
+                      "5"
+                    ],
+                    "hotel-bookstay": [
+                      "2"
+                    ],
+                    "hotel-internet": [
+                      "yes"
+                    ],
+                    "hotel-name": [
+                      "Hotel Astória"
+                    ],
+                    "hotel-pricerange": [
+                      "moderate"
+                    ],
+                    "hotel-stars": [
+                      "3"
+                    ],
+                    "hotel-type": [
+                      "hotel"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "8",
+            "utterance": "Ótimo! Eu necessito também de um lugar para jantar no este."
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "9",
+            "utterance": "Também o posso ajudar com isso! Tem uma preferência alimentar específica que procura?"
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [
+                  {
+                    "slot": "restaurant-food",
+                    "value": "eastern european"
+                  }
+                ],
+                "state": {
+                  "active_intent": "find_restaurant",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "restaurant-area": [
+                      "east"
+                    ],
+                    "restaurant-food": [
+                      "eastern european"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "hotel-bookday": [
+                      "tuesday"
+                    ],
+                    "hotel-bookpeople": [
+                      "5"
+                    ],
+                    "hotel-bookstay": [
+                      "2"
+                    ],
+                    "hotel-internet": [
+                      "yes"
+                    ],
+                    "hotel-name": [
+                      "Hotel Astória"
+                    ],
+                    "hotel-pricerange": [
+                      "moderate"
+                    ],
+                    "hotel-stars": [
+                      "3"
+                    ],
+                    "hotel-type": [
+                      "hotel"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "10",
+            "utterance": "Adoraria alguma comida da Europa de Leste, por favor."
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "11",
+            "utterance": "Não há restaurantes que sirvam comida europeia na zona. Gostaria de outro tipo de comida ou outra zona?"
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [
+                  {
+                    "slot": "restaurant-food",
+                    "value": "italian"
+                  }
+                ],
+                "state": {
+                  "active_intent": "find_restaurant",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "restaurant-area": [
+                      "east"
+                    ],
+                    "restaurant-food": [
+                      "italian"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "hotel-bookday": [
+                      "tuesday"
+                    ],
+                    "hotel-bookpeople": [
+                      "5"
+                    ],
+                    "hotel-bookstay": [
+                      "2"
+                    ],
+                    "hotel-internet": [
+                      "yes"
+                    ],
+                    "hotel-name": [
+                      "Hotel Astória"
+                    ],
+                    "hotel-pricerange": [
+                      "moderate"
+                    ],
+                    "hotel-stars": [
+                      "3"
+                    ],
+                    "hotel-type": [
+                      "hotel"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "12",
+            "utterance": "Que tal italiano?"
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [
+                  {
+                    "slot": "restaurant-name",
+                    "value": "Pizza Hut Alma Shopping"
+                  }
+                ]
+              }
+            ],
+            "speaker": "SYSTEM",
+            "turn_id": "13",
+            "utterance": "Temos um lugar italiano. Pizza Hut Alma Shopping. Gostaria de reservar uma mesa?"
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_restaurant",
+                  "requested_slots": [
+                    "restaurant-phone",
+                    "restaurant-postcode",
+                    "restaurant-address"
+                  ],
+                  "slot_values": {
+                    "restaurant-area": [
+                      "east"
+                    ],
+                    "restaurant-food": [
+                      "italian"
+                    ],
+                    "restaurant-name": [
+                      "Pizza Hut Alma Shopping"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "book_hotel",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "hotel-bookday": [
+                      "tuesday"
+                    ],
+                    "hotel-bookpeople": [
+                      "5"
+                    ],
+                    "hotel-bookstay": [
+                      "2"
+                    ],
+                    "hotel-internet": [
+                      "yes"
+                    ],
+                    "hotel-name": [
+                      "Hotel Astória"
+                    ],
+                    "hotel-pricerange": [
+                      "moderate"
+                    ],
+                    "hotel-stars": [
+                      "3"
+                    ],
+                    "hotel-type": [
+                      "hotel"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "14",
+            "utterance": "Não, presumo que o seu preço seja moderado. Se assim for, só preciso de um endereço, código postal e número de telefone."
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "15",
+            "utterance": "O seu preço é moderado. O número de telefone é 222444222. O endereço e o código postal é R. Gen. Humberto Delgado 207 303, 3030-327."
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [
+                  {
+                    "copy_from": "hotel-name",
+                    "slot": "taxi-destination",
+                    "value": [
+                      "Hotel Astória"
+                    ]
+                  },
+                  {
+                    "slot": "taxi-departure",
+                    "value": "Pizza Hut"
+                  }
+                ],
+                "state": {
+                  "active_intent": "find_taxi",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "taxi-departure": [
+                      "Pizza Hut Alma Shopping",
+                      "pizza hut"
+                    ],
+                    "taxi-destination": [
+                      "Hotel Astória"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "restaurant-area": [
+                      "east"
+                    ],
+                    "restaurant-food": [
+                      "italian"
+                    ],
+                    "restaurant-name": [
+                      "Pizza Hut Alma Shopping"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "hotel-bookday": [
+                      "tuesday"
+                    ],
+                    "hotel-bookpeople": [
+                      "5"
+                    ],
+                    "hotel-bookstay": [
+                      "2"
+                    ],
+                    "hotel-internet": [
+                      "yes"
+                    ],
+                    "hotel-name": [
+                      "Hotel Astória"
+                    ],
+                    "hotel-pricerange": [
+                      "moderate"
+                    ],
+                    "hotel-stars": [
+                      "3"
+                    ],
+                    "hotel-type": [
+                      "centre"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "16",
+            "utterance": "Ótimo, também precisaria de um táxi para me deslocar da Pizza Hut até ao hotel."
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "17",
+            "utterance": "Certamente. A que horas gostaria que o táxi se encontrasse consigo no restaurante?"
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [
+                  {
+                    "slot": "taxi-leaveat",
+                    "value": "07:15"
+                  }
+                ],
+                "state": {
+                  "active_intent": "find_taxi",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "taxi-departure": [
+                      "Pizza Hut Alma Shopping",
+                      "pizza hut"
+                    ],
+                    "taxi-destination": [
+                      "Hotel Astória"
+                    ],
+                    "taxi-leaveat": [
+                      "07:15"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "restaurant-area": [
+                      "east"
+                    ],
+                    "restaurant-food": [
+                      "italian"
+                    ],
+                    "restaurant-name": [
+                      "Pizza Hut Alma Shopping"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "hotel-bookday": [
+                      "tuesday"
+                    ],
+                    "hotel-bookpeople": [
+                      "5"
+                    ],
+                    "hotel-bookstay": [
+                      "2"
+                    ],
+                    "hotel-internet": [
+                      "yes"
+                    ],
+                    "hotel-name": [
+                      "Hotel Astória"
+                    ],
+                    "hotel-pricerange": [
+                      "moderate"
+                    ],
+                    "hotel-stars": [
+                      "3"
+                    ],
+                    "hotel-type": [
+                      "hotel"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "18",
+            "utterance": "Na verdade, preciso que o táxi me vá buscar ao hotel para chegar ao restaurante. Quero deixar o hotel até às 07:15, por favor."
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "19",
+            "utterance": "Reservei o táxi para si. O seu número de telefone é 918854422."
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "taxi-departure": [
+                      "Pizza Hut Alma Shopping",
+                      "pizza hut"
+                    ],
+                    "taxi-destination": [
+                      "Hotel Astória"
+                    ],
+                    "taxi-leaveat": [
+                      "07:15"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "restaurant-area": [
+                      "east"
+                    ],
+                    "restaurant-food": [
+                      "italian"
+                    ],
+                    "restaurant-name": [
+                      "Pizza Hut Alma Shopping"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "hotel-bookday": [
+                      "tuesday"
+                    ],
+                    "hotel-bookpeople": [
+                      "5"
+                    ],
+                    "hotel-bookstay": [
+                      "2"
+                    ],
+                    "hotel-internet": [
+                      "yes"
+                    ],
+                    "hotel-name": [
+                      "Hotel Astória"
+                    ],
+                    "hotel-pricerange": [
+                      "moderate"
+                    ],
+                    "hotel-stars": [
+                      "3"
+                    ],
+                    "hotel-type": [
+                      "hotel"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "20",
+            "utterance": "Eu tenho-o. Obrigado pela vossa ajuda."
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "21",
+            "utterance": "Há mais alguma coisa em que o possa ajudar hoje?"
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "taxi-departure": [
+                      "Pizza Hut Alma Shopping",
+                      "pizza hut"
+                    ],
+                    "taxi-destination": [
+                      "Hotel Astória"
+                    ],
+                    "taxi-leaveat": [
+                      "07:15"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "restaurant-area": [
+                      "east"
+                    ],
+                    "restaurant-food": [
+                      "italian"
+                    ],
+                    "restaurant-name": [
+                      "Pizza Hut Alma Shopping"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "hotel-bookday": [
+                      "tuesday"
+                    ],
+                    "hotel-bookpeople": [
+                      "5"
+                    ],
+                    "hotel-bookstay": [
+                      "2"
+                    ],
+                    "hotel-internet": [
+                      "yes"
+                    ],
+                    "hotel-name": [
+                      "Hotel Astória"
+                    ],
+                    "hotel-pricerange": [
+                      "moderate"
+                    ],
+                    "hotel-stars": [
+                      "3"
+                    ],
+                    "hotel-type": [
+                      "hotel"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "22",
+            "utterance": "Não, isso é tudo. Tem sido muito útil. Adeus."
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "23",
+            "utterance": "Estou feliz por podermos estar hoje ao nosso serviço. Desfrute do seu tempo em Coimbra!"
+          }
+        ]
+      },
+      {
+        "dialogue_id": "MUL1008.json",
+        "services": [
+          "attraction",
+          "hotel"
+        ],
+        "turns": [
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_hotel",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "hotel-internet": [
+                      "yes"
+                    ],
+                    "hotel-pricerange": [
+                      "moderate"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "0",
+            "utterance": "Olá, estou à procura de um lugar para ficar com preços moderados e wifi gratuito, por favor."
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "1",
+            "utterance": "Há muitos lugares que satisfazem os seus critérios, em que parte da cidade gostaria de ficar?"
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_hotel",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "hotel-internet": [
+                      "yes"
+                    ],
+                    "hotel-parking": [
+                      "no"
+                    ],
+                    "hotel-pricerange": [
+                      "moderate"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "2",
+            "utterance": "Não necessito de ficar num lugar que tenha estacionamento gratuito."
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "3",
+            "utterance": "Existem alguns hotéis na área que correspondem aos seus critérios, estaria interessado na Guest House Santa Clara?"
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_hotel",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "hotel-internet": [
+                      "yes"
+                    ],
+                    "hotel-parking": [
+                      "no"
+                    ],
+                    "hotel-pricerange": [
+                      "moderate"
+                    ],
+                    "hotel-stars": [
+                      "2"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "4",
+            "utterance": "Estou à procura de um hotel que também tenha uma classificação de 2 estrelas, algum desses hotéis tem uma classificação de 2 estrelas?"
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "5",
+            "utterance": "Existem 2 hotéis e ambos estão localizados no centro. O Hotel Mondego e o Hotel Vitória. Deseja mais informações sobre um destes hotéis?"
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_hotel",
+                  "requested_slots": [
+                    "hotel-type",
+                    "hotel-address",
+                    "hotel-phone"
+                  ],
+                  "slot_values": {
+                    "hotel-internet": [
+                      "yes"
+                    ],
+                    "hotel-parking": [
+                      "yes"
+                    ],
+                    "hotel-pricerange": [
+                      "moderate"
+                    ],
+                    "hotel-stars": [
+                      "2"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "6",
+            "utterance": "Pode dar-me o endereço, tipo de hotel e número de telefone de qualquer um dos hotéis?"
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "7",
+            "utterance": "Claro. O Hotel Vitória é de facto um hotel, não uma pousada. Pode encontrá-lo na Rua da Sota, nº 9. O seu número de telefone é 239824049."
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_hotel",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "hotel-internet": [
+                      "yes"
+                    ],
+                    "hotel-parking": [
+                      "yes"
+                    ],
+                    "hotel-pricerange": [
+                      "moderate"
+                    ],
+                    "hotel-stars": [
+                      "2"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_attraction",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "attraction-area": [
+                      "centre"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "8",
+            "utterance": "E isso é um hotel de 2 estrelas, correto? Há alguma atração que eu possa visitar no centro?"
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "9",
+            "utterance": "Sim, o Hotel Vitória é um local sem estrelas. Posso sugerir o Círculo de Iniciação Teatral da Academia de Coimbra para o seu entretenimento durante a sua estadia? É uma experiência altamente recomendada."
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_hotel",
+                  "requested_slots": [
+                    "hotel-address"
+                  ],
+                  "slot_values": {
+                    "hotel-internet": [
+                      "yes"
+                    ],
+                    "hotel-parking": [
+                      "yes"
+                    ],
+                    "hotel-pricerange": [
+                      "moderate"
+                    ],
+                    "hotel-stars": [
+                      "2"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [
+                  {
+                    "slot": "attraction-name",
+                    "value": "Círculo de Iniciação Teatral da Academia de Coimbra"
+                  }
+                ],
+                "state": {
+                  "active_intent": "find_attraction",
+                  "requested_slots": [
+                    "attraction-postcode"
+                  ],
+                  "slot_values": {
+                    "attraction-area": [
+                      "centre"
+                    ],
+                    "attraction-name": [
+                      "Círculo de Iniciação Teatral da Academia de Coimbra"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "10",
+            "utterance": "Isso parece perfeito. Posso obter o código postal do Círculo de Iniciação Teatral da Academia de Coimbra, por favor?"
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "11",
+            "utterance": "O código postal para o teatro é 3000-315. Posso ajudá-lo em mais alguma coisa?"
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "hotel-internet": [
+                      "yes"
+                    ],
+                    "hotel-parking": [
+                      "yes"
+                    ],
+                    "hotel-pricerange": [
+                      "moderate"
+                    ],
+                    "hotel-stars": [
+                      "2"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "attraction-area": [
+                      "centre"
+                    ],
+                    "attraction-name": [
+                      "Círculo de Iniciação Teatral da Academia de Coimbra"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "12",
+            "utterance": "Não, obrigado. Já está tudo pronto."
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "13",
+            "utterance": "Tenha um bom dia e obrigado por entrar em contacto com o centro."
+          }
+        ]
+      },
+      {
+        "dialogue_id": "PMUL1455.json",
+        "services": [
+          "attraction",
+          "train"
+        ],
+        "turns": [
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_attraction",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "attraction-area": [
+                      "centre"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "0",
+            "utterance": "Gostaria de obter uma lista de lugares a visitar no centro da cidade."
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "1",
+            "utterance": "A Igreja de São Tiago é um grande exemplo de arquitectura, o Museu nacional Machado de Castro é um bom museu gratuito, e o Jardim Botânico da Universidade de Coimbra é um parque encantador."
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_attraction",
+                  "requested_slots": [
+                    "attraction-address",
+                    "attraction-postcode"
+                  ],
+                  "slot_values": {
+                    "attraction-area": [
+                      "centre"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "2",
+            "utterance": "Pode fornecer o endereço e o código postal para todas essas sugestões? Obrigado!"
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "3",
+            "utterance": "A igreja de São Tiago situa-se na Praça do Comércio, 3000-180. O endereço do Museu nacional Machado de Castro é Largo Dr. José Rodrigues, 3000-236. O Jardim Botânico da Universidade de Coimbra está na Calçada Martim de Freitas, 3000-456."
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "attraction-area": [
+                      "centre"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_train",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "4",
+            "utterance": "pode ajudar-me a encontrar um comboio agora?"
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "5",
+            "utterance": "Sim, temos dezenas de comboios. Qual é o seu local de partida e destino desejado?"
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "attraction-area": [
+                      "centre"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [
+                  {
+                    "slot": "train-arriveby",
+                    "value": "08:30"
+                  }
+                ],
+                "state": {
+                  "active_intent": "find_train",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "train-arriveby": [
+                      "08:30"
+                    ],
+                    "train-day": [
+                      "monday"
+                    ],
+                    "train-departure": [
+                      "Coimbra"
+                    ],
+                    "train-destination": [
+                      "Aveiro"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "6",
+            "utterance": "Preciso do comboio que parta de Coimbra e vá para Aveiro na segunda-feira. Preciso de chegar até às 08:30, por favor."
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "7",
+            "utterance": "O comboio custa 5,60 euros."
+          }
+        ]
+      },
+      {
+        "dialogue_id": "SNG0416.json",
+        "services": [
+          "train"
+        ],
+        "turns": [
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_train",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "train-day": [
+                      "saturday"
+                    ],
+                    "train-destination": [
+                      "Coimbra"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "0",
+            "utterance": "Olá! Estou à procura de um comboio que parte no sábado para Coimbra."
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "1",
+            "utterance": "A que horas pretende partir? De manhã, à tarde ou à noite?"
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [
+                  {
+                    "slot": "train-leaveat",
+                    "value": "19:30"
+                  }
+                ],
+                "state": {
+                  "active_intent": "find_train",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "train-day": [
+                      "saturday"
+                    ],
+                    "train-destination": [
+                      "Coimbra"
+                    ],
+                    "train-leaveat": [
+                      "19:30"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "2",
+            "utterance": "Gostaria de partir depois das 19:30."
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "3",
+            "utterance": "De onde é que vai partir?"
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "book_train",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "train-bookpeople": [
+                      "6"
+                    ],
+                    "train-day": [
+                      "saturday"
+                    ],
+                    "train-departure": [
+                      "Quintans"
+                    ],
+                    "train-destination": [
+                      "Coimbra"
+                    ],
+                    "train-leaveat": [
+                      "19:30"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "4",
+            "utterance": "Vou partir de Quintans e deverá partir depois das 19:30. Gostaria também de uma reserva para 6 pessoas."
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "5",
+            "utterance": "Reservei 6 bilhetes para si no 4680, deixando Quintans às 19:53. 4,90 euros a pagar na estação. O número de referência é Y8XKP9LU. Será tudo?"
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "train-bookpeople": [
+                      "6"
+                    ],
+                    "train-day": [
+                      "saturday"
+                    ],
+                    "train-departure": [
+                      "Quintans"
+                    ],
+                    "train-destination": [
+                      "Coimbra"
+                    ],
+                    "train-leaveat": [
+                      "19:30"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "6",
+            "utterance": "Sim, obrigado, era tudo o que eu precisava!"
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "7",
+            "utterance": "Obrigado por utilizar este sistema!"
+          }
+        ]
+      },
+      {
+        "dialogue_id": "MUL0978.json",
+        "services": [
+          "restaurant",
+          "taxi",
+          "attraction"
+        ],
+        "turns": [
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [
+                  {
+                    "slot": "restaurant-food",
+                    "value": "chinese"
+                  }
+                ],
+                "state": {
+                  "active_intent": "find_restaurant",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "restaurant-area": [
+                      "centre"
+                    ],
+                    "restaurant-food": [
+                      "chinese"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_attraction",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "0",
+            "utterance": "Estou à procura de um restaurante chinês no centro da cidade."
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "1",
+            "utterance": "Claro, existem vários restaurantes chineses no centro da cidade, tem em mente uma gama de preços?"
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_restaurant",
+                  "requested_slots": [
+                    "restaurant-pricerange",
+                    "restaurant-postcode"
+                  ],
+                  "slot_values": {
+                    "restaurant-area": [
+                      "centre"
+                    ],
+                    "restaurant-food": [
+                      "chinese"
+                    ],
+                    "restaurant-pricerange": [
+                      "dontcare"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "2",
+            "utterance": "Não importa. Pode escolher um e dar-me o código postal e o intervalo de preços, por favor."
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [
+                  {
+                    "slot": "taxi-destination",
+                    "value": "Kang Le"
+                  }
+                ]
+              }
+            ],
+            "speaker": "SYSTEM",
+            "turn_id": "3",
+            "utterance": "Claro, o Kang Le é bom, a gama de preços é barata e o código postal é 3000-090."
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_restaurant",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "restaurant-area": [
+                      "centre"
+                    ],
+                    "restaurant-food": [
+                      "chinese"
+                    ],
+                    "restaurant-pricerange": [
+                      "dontcare"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_attraction",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "attraction-area": [
+                      "centre"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "4",
+            "utterance": "Pode recomendar uma atração que também se encontra no centro da cidade?"
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "5",
+            "utterance": "Certamente. Talvez aprecie a Biblioteca Joanina. É famosa pela sua arquitetura, e gratuita para visitar."
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "restaurant-area": [
+                      "centre"
+                    ],
+                    "restaurant-food": [
+                      "chinese"
+                    ],
+                    "restaurant-pricerange": [
+                      "dontcare"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_attraction",
+                  "requested_slots": [
+                    "attraction-type",
+                    "attraction-postcode",
+                    "attraction-phone"
+                  ],
+                  "slot_values": {
+                    "attraction-area": [
+                      "centre"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "6",
+            "utterance": "Isso parece ótimo! Pode enviar-me o número de telefone, o código postal e o tipo de atração?"
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [
+                  {
+                    "slot": "taxi-departure",
+                    "value": "Biblioteca Joanina"
+                  }
+                ]
+              }
+            ],
+            "speaker": "SYSTEM",
+            "turn_id": "7",
+            "utterance": "A Biblioteca Joanina é famosa pela sua arquitetura. Está localizada no Paço das Escolas da Universidade de Coimbra, 3000-295. Pode ser contactada pelo número 239247280. Há mais alguma coisa que eu possa encontrar para si?"
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [
+                  {
+                    "slot": "taxi-leaveat",
+                    "value": "21:30"
+                  }
+                ],
+                "state": {
+                  "active_intent": "find_taxi",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "taxi-departure": [
+                      "Biblioteca Joanina"
+                    ],
+                    "taxi-destination": [
+                      "Kang Le"
+                    ],
+                    "taxi-leaveat": [
+                      "21:30"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "restaurant-area": [
+                      "centre"
+                    ],
+                    "restaurant-food": [
+                      "chinese"
+                    ],
+                    "restaurant-pricerange": [
+                      "dontcare"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "attraction-area": [
+                      "centre"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "8",
+            "utterance": "Sim, preciso de um táxi para me levar da biblioteca para o restaurante às 21:30"
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "9",
+            "utterance": "Encontrei um, o número de telefone é 918854422."
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "find_taxi",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "taxi-departure": [
+                      "Biblioteca Joanina"
+                    ],
+                    "taxi-destination": [
+                      "Kang Le"
+                    ],
+                    "taxi-leaveat": [
+                      "21:30"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "restaurant-area": [
+                      "centre"
+                    ],
+                    "restaurant-food": [
+                      "chinese"
+                    ],
+                    "restaurant-pricerange": [
+                      "dontcare"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "attraction-area": [
+                      "centre"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "10",
+            "utterance": "Pode reservar esse táxi para mim, por favor? E isso é o número de contacto, certo?"
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "11",
+            "utterance": "Sim, é isso mesmo. A sua reserva de táxi está completa."
+          },
+          {
+            "frames": [
+              {
+                "actions": [],
+                "service": "taxi",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "taxi-departure": [
+                      "Biblioteca Joanina"
+                    ],
+                    "taxi-destination": [
+                      "Kang Le"
+                    ],
+                    "taxi-leaveat": [
+                      "21:30"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "restaurant",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "restaurant-area": [
+                      "centre"
+                    ],
+                    "restaurant-food": [
+                      "chinese"
+                    ],
+                    "restaurant-pricerange": [
+                      "dontcare"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "attraction",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {
+                    "attraction-area": [
+                      "centre"
+                    ]
+                  }
+                }
+              },
+              {
+                "actions": [],
+                "service": "bus",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "police",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hotel",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "train",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              },
+              {
+                "actions": [],
+                "service": "hospital",
+                "slots": [],
+                "state": {
+                  "active_intent": "NONE",
+                  "requested_slots": [],
+                  "slot_values": {}
+                }
+              }
+            ],
+            "speaker": "USER",
+            "turn_id": "12",
+            "utterance": "Obrigado, não tenho mais perguntas."
+          },
+          {
+            "frames": [],
+            "speaker": "SYSTEM",
+            "turn_id": "13",
+            "utterance": "O prazer é todo meu. Adeus."
+          }
+        ]
       }
 ]
