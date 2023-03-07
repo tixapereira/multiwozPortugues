@@ -1,19 +1,21 @@
 [
     {
-        "address": "pool way, whitehill road, off newmarket road",
+        "address": "Av. Calouste Gulbenkian",
         "area": "east",
         "entrance fee": "?",
         "id": "1",
         "location": [
-            52.208789,
-            0.154883
+            0,
+            0
         ],
-        "name": "abbey pool and astroturf pitch",
+        "name": "Associação de Natação de Coimbra",
         "openhours": "?",
         "phone": "01223902088",
         "postcode": "cb58nt",
         "pricerange": "?",
-        "type": "swimmingpool"
+        "type": "swimmingpool",
+        "idMultiWoz": "1",
+        "nameMultiWoz": "abbey pool and astroturf pitch"
     },
     {
         "address": "Rua Pedro Nunes",
@@ -156,22 +158,20 @@
         "type": "museum"
     },
     {
-        "address": "R. Padre António Vieira, nº1, edifício da AAC",
+        "address": "6 saint edward's passage",
         "area": "centre",
         "entrance fee": "?",
         "id": "10",
         "location": [
-            40.209821,
-            -8.420977
+            52.2034781571435,
+            0.119176917855308
         ],
-        "name": "Círculo de Iniciação Teatral da Academia de Coimbra",
+        "name": "cambridge arts theatre",
         "openhours": "?",
-        "phone": "933956833",
-        "postcode": "3000-315",
+        "phone": "01223503333",
+        "postcode": "cb23pj",
         "pricerange": "?",
-        "type": "theatre",
-        "idMultiWoz": "10",
-        "nameMultiWoz": "cambridge arts theatre"
+        "type": "theatre"
     },
     {
         "address": "5 greens road",
@@ -565,23 +565,21 @@
         "pricerange": "free",
         "type": "college"
     },
-     {
-        "address": "Rua da Sofia 174",
+    {
+        "address": "jesus lane",
         "area": "centre",
         "entrance fee": "free",
         "id": "34",
         "location": [
-            40.213996,
-            -8.431258
+            52.209353,
+            0.125342
         ],
-        "name": "Colégio da Graça",
-        "openhours": "?",
-        "phone": "239857095",
-        "postcode": "3000-229",
+        "name": "jesus college",
+        "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
+        "phone": "01223339485",
+        "postcode": "cb58bl",
         "pricerange": "free",
-        "type": "college",
-        "idMultiWoz": "34",
-        "nameMultiWoz": "jesus college"
+        "type": "college"
     },
     {
         "address": "between victoria road and the river",
@@ -650,20 +648,22 @@
         "type": "college"
     },
     {
-        "address": "jedburgh court, kings hedges",
+        "address": "Rua António Sérgio",
         "area": "north",
         "entrance fee": "?",
         "id": "39",
         "location": [
-            52.23171,
-            0.122415
+            0,
+            0
         ],
-        "name": "kings hedges learner pool",
+        "name": "Piscinas Municipais Rui Abreu",
         "openhours": "?",
-        "phone": "01223353248",
-        "postcode": "cb42xh",
+        "phone": "239 499 120",
+        "postcode": "3020-305",
         "pricerange": "?",
-        "type": "swimmingpool"
+        "type": "swimmingpool",
+        "idMultiWoz": "39",
+        "nameMultiWoz": "kings hedges learner pool"
     },
     {
         "address": "little saint mary's lane",
@@ -698,22 +698,20 @@
         "type": "museum"
     },
     {
-        "address": "R. Frei Tomé de Jesus 11",
-        "area": "east",
+        "address": "magdalene street",
+        "area": "west",
         "entrance fee": "free",
         "id": "42",
         "location": [
-            40.215016,
-            -8.427000
+            52.210403,
+            0.115803
         ],
-        "name": "Colégio de São José",
-        "openhours": "aberto de segunda a sexta das 07:45 às 18:45.",
-        "phone": "239852330",
-        "postcode": "3000-195",
+        "name": "magdalene college",
+        "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
+        "phone": "01223332138",
+        "postcode": "cb30ag",
         "pricerange": "free",
-        "type": "college",
-        "idMultiWoz": "42",
-        "nameMultiWoz": "magdalene college"
+        "type": "college"
     },
     {
         "address": "milton country park, milton",
@@ -880,20 +878,22 @@
         "type": "museum"
     },
     {
-        "address": "silver street",
+        "address": " R. do Norte 23",
         "area": "west",
-        "entrance fee": "2.50 pounds",
+        "entrance fee": "2.50 $",
         "id": "53",
         "location": [
-            52.2018,
-            0.114239
+            0,
+            0
         ],
-        "name": "queens' college",
-        "openhours": "monday to sunday 10 a.m. to 4:30 p.m.",
+        "name": "Torre da Universidade de Coimbra",
+        "openhours": "-----",
         "phone": "01223335511",
         "postcode": "cb39et",
         "pricerange": "moderate",
-        "type": "college"
+        "type": "college",
+        "idMultiWoz": "53",
+        "nameMultiWoz": "queens' college"
     },
     {
         "address": "R. Olivença 21",
@@ -982,20 +982,22 @@
         "nameMultiWoz": "saint catharine's college"
     },
     {
-        "address": "saint john's street",
+        "address": "Praça Dom Dinis",
         "area": "centre",
-        "entrance fee": "2.50 pounds",
+        "entrance fee": "2.5 $",
         "id": "59",
         "location": [
-            52.208803,
-            0.117411
+            0,
+            0
         ],
-        "name": "saint john's college",
-        "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
-        "phone": "01223338600",
-        "postcode": "cb21tp",
-        "pricerange": "moderate",
-        "type": "college"
+        "name": "Real Colégio das Artes e Humanidades",
+        "openhours": "---------------",
+        "phone": "----",
+        "postcode": "----",
+        "pricerange": "-----",
+        "type": "college",
+        "idMultiWoz": "59",
+        "nameMultiWoz": "saint john's college"
     },
     {
         "address": "lensfield road",
@@ -1130,20 +1132,22 @@
         "nameMultiWoz": "the cambridge punter"
     },
     {
-        "address": "colville road, cherry hinton",
+        "address": "Av. da Guarda Inglesa",
         "area": "east",
         "entrance fee": "?",
         "id": "68",
         "location": [
-            52.186715,
-            0.17882
+            0,
+            0
         ],
-        "name": "the cherry hinton village centre",
-        "openhours": "it opens from 09:00 a.m. to 8:00 p.m. on sunday, and from 09:00 a.m. to 10:00 p.m. from monday to saturday",
-        "phone": "01223576412",
-        "postcode": "cb19ej",
+        "name": "Estádio Universitário de Coimbra",
+        "openhours": " 09h00 ",
+        "phone": "239 247 671",
+        "postcode": "3040-256",
         "pricerange": "?",
-        "type": "mutliple sports"
+        "type": "mutliple sports",
+        "idMultiWoz": "68",
+        "nameMultiWoz": "the cherry hinton village centre"
     },
     {
         "address": "8 market passage",
