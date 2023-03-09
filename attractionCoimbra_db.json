@@ -142,20 +142,22 @@
         "type": "boat"
     },
     {
-        "address": "2-3 castle street",
+        "address": "Rotunda das Lages, Parque Verde do Mondego",
         "area": "west",
-        "entrance fee": "3.50 pounds",
+        "entrance fee": "Depende da idade, os preços vão desde os 8€ aos 14,40€",
         "id": "9",
         "location": [
-            52.210766,
-            0.114795
+            40.197218,
+            -8.429316
         ],
-        "name": "cambridge and county folk museum",
-        "openhours": "it opens from monday to saturday, 10 a.m. to 5 p.m. while on sunday it opens from 2 p.m. to 5 p.m.",
-        "phone": "01223355159",
-        "postcode": "cb30aq",
+        "name": "Exploratório - Centro Ciência Viva",
+        "openhours": "Aberto todos os dias das 10:00 às 13:00 e das 14:00 às 18:00.",
+        "phone": "239703897",
+        "postcode": "3041-901",
         "pricerange": "moderate",
-        "type": "museum"
+        "type": "museum",
+        "idMultiWoz": "9",
+        "nameMultiWoz": "cambridge and county folk museum"
     },
     {
         "address": "6 saint edward's passage",
