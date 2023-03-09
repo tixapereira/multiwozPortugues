@@ -27,7 +27,7 @@
             40.203226,
             -8.408694
         ],
-        "name": "",
+        "name": "Restaurante 39",
         "phone": "239406675",
         "postcode": "3030-320",
         "pricerange": "cheap",
@@ -688,20 +688,22 @@
         "type": "restaurant"
     },
     {
-        "address": "Cambridge Leisure Park Clifton Way",
+        "address": "R Paul Harris Quinta da Portela",
         "area": "south",
         "food": "portuguese",
         "id": "12238",
-        "introduction": "It's Nandos",
+        "introduction": "---",
         "location": [
-            52.19017,
-            0.13699
+            0,
+            0
         ],
-        "name": "nandos",
+        "name": "Sol Do Mondego",
         "phone": "01223327908",
         "postcode": "cb17dy",
         "pricerange": "cheap",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "12238",
+        "nameMultiWoz": "nandos"
     },
     {
         "address": "6 Lensfield Road",
@@ -788,19 +790,21 @@
         "type": "restaurant"
     },
     {
-        "address": "196 Mill Road City Centre",
+        "address": "R. Alexandre Herculano 16C",
         "area": "centre",
         "food": "turkish",
         "id": "19189",
-        "introduction": "meze is a restaurant and bar that serves tasty and fresh turkish cuisine set in an informal relaxed atmosphere the bar area also serves a wide range of beers wines and spirits",
+        "introduction": "",
         "location": [
-            52.197349,
-            0.145075
+            0,
+            0
         ],
-        "name": "meze bar",
+        "name": "Efes Kebab",
         "postcode": "cb13nf",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19189",
+        "nameMultiWoz": "meze bar"
     },
     {
         "address": "Avenida Sá da Bandeira 50",
