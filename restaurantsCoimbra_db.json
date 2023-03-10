@@ -1082,19 +1082,21 @@
 
     },
     {
-        "address": "Victoria Avenue Chesterton",
+        "address": "Praça do Comércio 80",
         "area": "north",
         "food": "indian",
         "id": "19257",
         "location": [
-            52.213853,
-            0.125509
+            40.209009,
+            -8.429305
         ],
-        "name": "royal spice",
-        "phone": "01733553355",
-        "postcode": "cb41eh",
+        "name": "Chai...",
+        "phone": "920305099",
+        "postcode": "3000-116",
         "pricerange": "cheap",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19257",
+        "nameMultiWoz": "royal spice"
     },
     {
         "address": "R. Cidade de Poitiers ",
