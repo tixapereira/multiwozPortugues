@@ -1266,20 +1266,22 @@
         "type": "cinema"
     },
     {
-        "address": "wandlebury ring, gog magog hills, babraham",
+        "address": "Av. Emídio Navarro",
         "area": "south",
         "entrance fee": "free",
         "id": "76",
         "location": [
-            52.119551,
-            0.181018
+            40.204864,
+            -8.427234
         ],
-        "name": "wandlebury country park",
+        "name": "Parque Dr. Manuel Braga",
         "openhours": "always",
-        "phone": "01223243830",
-        "postcode": "cb223ae",
+        "phone": "234857500",
+        "postcode": "3000-150",
         "pricerange": "free",
-        "type": "park"
+        "type": "park",
+        "idMultiWoz": "76",
+        "nameMultiWoz": "wandlebury country park"
     },
     {
         "address": "unit 8, viking way, bar hill",
