@@ -606,20 +606,22 @@
         "nameMultiWoz": "la tasca"
     },
     {
-        "address": "20 Milton Road Chesterton",
+        "address": "R. Amorim Girão 15 loja 6",
         "area": "north",
         "food": "italian",
         "id": "19259",
-        "introduction": "da Vinci pizzeria serve an extensive range of pizza and italian dishes as well as some vegetarian options a takeaway and delivery service is also available",
+        "introduction": "",
         "location": [
-            52.215311,
-            0.12593
+            40.196166,
+            -8.432251
         ],
-        "name": "da vinci pizzeria",
-        "phone": "01223351707",
-        "postcode": "cb41jy",
+        "name": "Da Vinci l'arte della pizza",
+        "phone": "934202873",
+        "postcode": "3040-092",
         "pricerange": "cheap",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19259",
+        "nameMultiWoz": "da vinci pizzeria"
     },
     {
         "address": "Rua Bernardo de Albuquerque n° 15B",
