@@ -137,19 +137,21 @@
         "nameMultiWoz": "yu garden"
     },
     {
-        "address": "Market Hill City Centre",
+        "address": "Av. Dom Afonso Henriques 55",
         "area": "centre",
         "food": "italian",
         "id": "19240",
         "location": [
-            52.205442,
-            0.119706
+            0,
+            0
         ],
-        "name": "stazione restaurant and coffee bar",
+        "name": "Fixepizza",
         "phone": "01223352607",
         "postcode": "cb23nj",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19240",
+        "nameMultiWoz": "stazione restaurant and coffee bar"
     },
     {
         "address": "Rua Carlos Seixas",
