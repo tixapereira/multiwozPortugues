@@ -716,20 +716,22 @@
         "type": "college"
     },
     {
-        "address": "milton country park, milton",
+        "address": "",
         "area": "north",
         "entrance fee": "free",
         "id": "43",
         "location": [
-            52.247361,
-            0.156627
+            0,
+            0
         ],
-        "name": "milton country park",
+        "name": "Parque Verde do Mondego",
         "openhours": "always",
         "phone": "01223420060",
         "postcode": "cb46az",
         "pricerange": "free",
-        "type": "park"
+        "type": "park",
+        "idMultiWoz": "43",
+        "nameMultiWoz": "milton country park"
     },
     {
         "address": "Praça República",
