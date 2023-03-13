@@ -126,7 +126,7 @@
         "nameMultiWoz": "cafe jello gallery"
     },
     {
-        "address": "the plough, green end, fen ditton,",
+        "address": "Av. Emídio Navarro",
         "area": "east",
         "entrance fee": "?",
         "id": "8",
@@ -134,12 +134,14 @@
             52.21247,
             0.15619
         ],
-        "name": "camboats",
+        "name": "O Basófias",
         "openhours": "?",
         "phone": "01223902112",
         "postcode": "cb58sx",
         "pricerange": "?",
-        "type": "boat"
+        "type": "boat",
+        "idMultiWoz": "8",
+        "nameMultiWoz": "camboats"
     },
     {
         "address": "Rotunda das Lages, Parque Verde do Mondego",
@@ -468,7 +470,7 @@
         "type": "college"
     },
     {
-        "address": "8 mercers row, mercers row industrial estate",
+        "address": "R. Manuel Madeira 37",
         "area": "east",
         "entrance fee": "?",
         "id": "28",
@@ -476,12 +478,14 @@
             52.21401,
             0.14789
         ],
-        "name": "funky fun house",
+        "name": "Feijão Verde Fun Park Coimbra",
         "openhours": "?",
         "phone": "01223304705",
         "postcode": "cb58hy",
         "pricerange": "?",
-        "type": "entertainment"
+        "type": "entertainment",
+        "idMultiWoz": "28",
+        "nameMultiWoz": "funky fun house"
     },
     {
         "address": "fulbourn",
