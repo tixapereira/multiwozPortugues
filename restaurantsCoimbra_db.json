@@ -845,22 +845,20 @@
         "type": "restaurant"
     },
     {
-        "address": "Avenida Mendes da Silva",
+        "address": "40428 King Street City Centre",
         "area": "centre",
         "food": "asian oriental",
         "id": "19175",
-        "introduction": "",
+        "introduction": "yippee noodle bar serves a variety of oriental and vegetarian dishes at their restaurant they also have a bar area and offer a take away service",
         "location": [
             52.207446,
             0.122788
         ],
-        "name": "Noodles Massas do Oriente",
-        "phone": "239196704",
-        "postcode": "3030-193",
+        "name": "yippee noodle bar",
+        "phone": "01223518111",
+        "postcode": "cb11lh",
         "pricerange": "moderate",
-        "type": "restaurant",
-        "idMultiWoz": "19175",
-        "nameMultiWoz": "yippee noodle bar"
+        "type": "restaurant"
     },
     {
         "address": "7 Milton Road Chesterton",
