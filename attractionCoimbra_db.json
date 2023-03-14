@@ -1190,20 +1190,22 @@
         "type": "museum"
     },
     {
-        "address": "clifton way",
+        "address": "Estúdio 2, Av. Sá da Bandeira 33 Piso 0",
         "area": "south",
         "entrance fee": "?",
         "id": "71",
         "location": [
-            52.190325,
-            0.135755
+            40.211910,
+            -8.423361
         ],
-        "name": "the junction",
+        "name": "Casa do Cinema de Coimbra",
         "openhours": "?",
-        "phone": "01223511511",
-        "postcode": "cb17gx",
+        "phone": "911081317",
+        "postcode": "3000-351",
         "pricerange": "?",
-        "type": "theatre"
+        "type": "theatre",
+        "idMultiWoz": "71",
+        "nameMultiWoz": "the junction"
     },
     {
         "address": "2 norfolk street",
