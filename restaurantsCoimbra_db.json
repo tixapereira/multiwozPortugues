@@ -946,20 +946,22 @@
         "nameMultiWoz": "golden house"
     },
     {
-        "address": "86 Regent Street City Centre",
+        "address": "Largo do Romal 30",
         "area": "centre",
         "food": "asian oriental",
         "id": "19215",
-        "introduction": "j restaurant offers a wide variety of sushi noodles and dim sum to eat in or takeaway a home delivery service is also available",
+        "introduction": "",
         "location": [
-            52.200187,
-            0.126407
+            40.208754,
+            -8.430200
         ],
-        "name": "j restaurant",
-        "phone": "01223307581",
-        "postcode": "cb21dp",
+        "name": "Izakaya Oni",
+        "phone": "912754762",
+        "postcode": "3000-347",
         "pricerange": "cheap",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19215",
+        "nameMultiWoz": "j restaurant"
     },
     {
         "address": "33 Bridge Street",
