@@ -1413,20 +1413,22 @@
         "type": "restaurant"
     },
     {
-        "address": "Cambridge Lodge Hotel 139 Huntingdon Road City Centre",
+        "address": "Rua Capitão Luís Gonzaga 27/29",
         "area": "west",
         "food": "european",
         "id": "19252",
-        "introduction": "located in the cambridge lodge hotel, this restaurant serves a variety of european and vegetarian dishes and can cater for private parties of up to 20 guests upon request.",
+        "introduction": "",
         "location": [
-            52.217736,
-            0.102505
+            40.217092,
+            -8.406322
         ],
-        "name": "cambridge lodge restaurant",
-        "phone": "01223355166",
-        "postcode": "cb30dq",
+        "name": "Compostu tavern",
+        "phone": "239703892",
+        "postcode": "3000-095",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19252",
+        "nameMultiWoz": "cambridge lodge restaurant"
     },
     {
         "address": "Avenida Sá da Bandeira 91",
