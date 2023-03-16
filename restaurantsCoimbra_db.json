@@ -710,21 +710,22 @@
         "nameMultiWoz": "nandos"
     },
     {
-        "address": "6 Lensfield Road",
+        "address": "Av. João das Regras 116",
         "area": "centre",
         "food": "british",
         "id": "13071",
         "introduction": "",
         "location": [
-            52.1987,
-            0.12578
+            40.203634,
+            -8.433973
         ],
-        "name": "the oak bistro",
-        "phone": "01223323361",
-        "postcode": "cb21eg",
+        "name": "Quê-Bê Restaurante",
+        "phone": "239441489",
+        "postcode": "3040-256",
         "pricerange": "moderate",
-        "signature": "chargrilled rib eye steak with truffle butter mixed salad and fries",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "13071",
+        "nameMultiWoz": "the oak bistro"
     },
     {
         "address": "4 Kings Parade City Centre",
