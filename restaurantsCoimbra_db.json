@@ -1521,19 +1521,21 @@
         "nameMultiWoz": "anatolia"
     },
     {
-        "address": "8 Norfolk Street City Centre",
+        "address": "R. das Flores 3",
         "area": "centre",
         "food": "indian",
         "id": "19187",
         "location": [
-            52.204609,
-            0.137976
+            40.210585,
+            -8.425723
         ],
-        "name": "panahar",
-        "phone": "01223355012",
-        "postcode": "cb12lf",
+        "name": "Mostarda Hilsa",
+        "phone": "920486290",
+        "postcode": "3000-442",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19187",
+        "nameMultiWoz": "panahar"
     },
     {
         "address": "Rua Lourenço Almeida Azevedo",
