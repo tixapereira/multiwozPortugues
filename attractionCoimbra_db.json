@@ -790,20 +790,22 @@
         "type": "museum"
     },
     {
-        "address": "unit g6, cambridge leisure park, clifton road",
+        "address": "Rua Quebra Costas 45",
         "area": "south",
         "entrance fee": "?",
         "id": "47",
         "location": [
-            52.1896573155949,
-            0.137541476208324
+            40.209165,
+            -8.427844
         ],
-        "name": "nusha",
-        "openhours": "it opens from 5:00 p.m. to 01:30 a.m. on tuesday, friday and saturday, and from 5:00 p.m. to midnight on monday, wednesday, thursday and sunday.",
-        "phone": "01223902158",
-        "postcode": "cb17dy",
+        "name": "Quebra bar",
+        "openhours": "Está aberto de segunda a sexta das 12:00 até às 04:00 e aos sábados das 14:00 às 00:00.",
+        "phone": "239821661",
+        "postcode": "3000-088",
         "pricerange": "?",
-        "type": "entertainment"
+        "type": "entertainment",
+        "idMultiWoz": "47",
+        "nameMultiWoz": "nusha"
     },
     {
         "address": "Rua do Norte 37",
