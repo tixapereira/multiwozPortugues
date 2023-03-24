@@ -162,20 +162,22 @@
         "nameMultiWoz": "cambridge and county folk museum"
     },
     {
-        "address": "6 saint edward's passage",
+        "address": "R. Padre António Vieira",
         "area": "centre",
         "entrance fee": "?",
         "id": "10",
         "location": [
-            52.2034781571435,
-            0.119176917855308
+            40.209600,
+            -8.421676
         ],
-        "name": "cambridge arts theatre",
+        "name": "Coimbra Impro",
         "openhours": "?",
-        "phone": "01223503333",
-        "postcode": "cb23pj",
+        "phone": "?",
+        "postcode": "3000-350",
         "pricerange": "?",
-        "type": "theatre"
+        "type": "theatre",
+        "idMultiWoz": "10",
+        "nameMultiWoz": "cambridge arts theatre"
     },
     {
         "address": "5 greens road",
