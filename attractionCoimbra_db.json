@@ -424,20 +424,22 @@
         "type": "nightclub"
     },
     {
-        "address": "king's parade",
+        "address": "R. Larga 2",
         "area": "centre",
-        "entrance fee": "2 pounds",
+        "entrance fee": "free",
         "id": "25",
         "location": [
-            52.2028416666667,
-            0.117844444444444
+            40.208281,
+            -8.424232
         ],
-        "name": "corpus christi",
-        "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
-        "phone": "01223338000",
-        "postcode": "cb21rh",
-        "pricerange": "cheap",
-        "type": "college"
+        "name": "Faculdade de Medicina",
+        "openhours": "Aberto das 08 às 18 todos os dias, exceto sábados e domingos",
+        "phone": "239857700",
+        "postcode": "3000-370",
+        "pricerange": "free",
+        "type": "college",
+        "idMultiWoz": "25",
+        "nameMultiWoz": "corpus christi"
     },
     {
         "address": "regent street",
