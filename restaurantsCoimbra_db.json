@@ -643,19 +643,21 @@
         "nameMultiWoz": "two two"
     },
     {
-        "address": "12 St. Johns Street City Centre",
+        "address": "R. Lourenço de Almeida Azevedo 24",
         "area": "centre",
         "food": "chinese",
         "id": "19228",
-        "introduction": "ugly duckling serves a variety of chinese dishes to eat in or take away they also offer 10 percent discount on takeaway orders",
+        "introduction": "",
         "location": [
-            52.208055,
-            0.118397
+            40.211155,
+            -8.416171
         ],
-        "name": "ugly duckling",
-        "postcode": "cb21tw",
+        "name": "Ishi",
+        "postcode": "3000-250",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19228",
+        "nameMultiWoz": "ugly duckling"
     },
     {
         "address": "Rua Irma Lucia Lote 6, Loja 8",
