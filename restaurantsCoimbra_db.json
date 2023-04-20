@@ -475,7 +475,7 @@
     },
     {
         "address": "Praça do Comércio 80",
-        "area": "north",
+        "area": "west",
         "food": "indian",
         "id": "19257",
         "location": [
@@ -485,7 +485,7 @@
         "name": "Chai2...",
         "phone": "920305099",
         "postcode": "3000-116",
-        "pricerange": "cheap",
+        "pricerange": "expensive",
         "type": "restaurant",
         "idMultiWoz": "19249",
         "nameMultiWoz": "cocum"
