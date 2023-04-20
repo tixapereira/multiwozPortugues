@@ -1559,19 +1559,22 @@
         "nameMultiWoz": "tang chinese"
     },
     {
-        "address": "34 - 35 Green Street",
+        "address": "R. Almeida Garrett 1",
         "area": "centre",
         "food": "gastropub",
         "id": "12482",
-        "introduction": "slug lettuce is a premium high street bar that serves a wide range of restaurant quality food to suit all occasions and appetites.",
+        "introduction": "",
         "location": [
-            52.20683,
-            0.1192
+            40.209037,
+            -8.419032
         ],
-        "name": "the slug and lettuce",
-        "postcode": "cb23ju",
+        "name": "The Murphy's Irish Pub",
+        "phone": "239829307",
+        "postcode": "3000-021",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "12482",
+        "nameMultiWoz": "the slug and lettuce"
     },
     {
         "address": "5 Jordans Yard Bridge Street City Centre",
