@@ -55,19 +55,21 @@
         "nameMultiWoz": "curry garden"
     },
     {
-        "address": "82 Cherry Hinton Road Cherry Hinton",
+        "address": "R. Cidade de Poitiers 155",
         "area": "south",
         "food": "chinese",
         "id": "19192",
         "location": [
-            52.188528,
-            0.140627
+            40.222565,
+            -8.436241
         ],
-        "name": "the good luck chinese food takeaway",
-        "phone": "01223244149",
-        "postcode": "cb17ag",
+        "name": "Lung Wah",
+        "phone": "239492743",
+        "postcode": "3000-108",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19192",
+        "nameMultiWoz": "the good luck chinese food takeaway"
     },
     {
         "address": "G4 Cambridge Leisure Park Clifton Way Cherry Hinton",
