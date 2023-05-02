@@ -1112,20 +1112,22 @@
         "nameMultiWoz": "tenpin"
     },
     {
-        "address": "wheeler street",
+        "address": "R. Padre António Vieira, nº1",
         "area": "centre",
         "entrance fee": "?",
         "id": "66",
         "location": [
-            52.20431,
-            0.119215
+            40.209846,
+            -8.420960
         ],
-        "name": "the cambridge corn exchange",
+        "name": "Círculo de Iniciação Teatral da Academia de Coimbra",
         "openhours": "?",
-        "phone": "01223357851",
-        "postcode": "cb23qe",
+        "phone": "933956833",
+        "postcode": "3000-315",
         "pricerange": "?",
-        "type": "theatre"
+        "type": "theatre",
+        "idMultiWoz": "66",
+        "nameMultiWoz": "the cambridge corn exchange"
     },
     {
         "address": "Rio Mondego",
