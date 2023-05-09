@@ -851,20 +851,22 @@
         "type": "restaurant"
     },
     {
-        "address": "40428 King Street City Centre",
+        "address": "R. Dom João III nº83",
         "area": "centre",
         "food": "asian oriental",
         "id": "19175",
-        "introduction": "yippee noodle bar serves a variety of oriental and vegetarian dishes at their restaurant they also have a bar area and offer a take away service",
+        "introduction": "",
         "location": [
-            52.207446,
-            0.122788
+            40.203847,
+            -8.406497
         ],
-        "name": "yippee noodle bar",
-        "phone": "01223518111",
-        "postcode": "cb11lh",
+        "name": "SushiCome",
+        "phone": "239713084",
+        "postcode": "3030-329",
         "pricerange": "moderate",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19175",
+        "nameMultiWoz": "yippee noodle bar"
     },
     {
         "address": "7 Milton Road Chesterton",
