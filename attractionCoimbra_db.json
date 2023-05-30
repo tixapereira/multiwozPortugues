@@ -1274,12 +1274,14 @@
             52.20571,
             0.131061
         ],
-        "name": "vue cinema",
+        "name": "Cinemas Nos Alma Shopping",
         "openhours": "?",
         "phone": "08712240240",
         "postcode": "cb11ps",
         "pricerange": "?",
-        "type": "cinema"
+        "type": "cinema",
+        "idMultiWoz": "75",
+        "nameMultiWoz": "vue cinema"
     },
     {
         "address": "Av. Emídio Navarro",
