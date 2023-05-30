@@ -1475,21 +1475,23 @@
 
     },
     {
-        "address": "Quayside Off Bridge Street",
+        "address": "Rua Fernandes Tomás N°51 e 53",
         "area": "centre",
         "food": "modern european",
         "id": "7236",
         "introduction": "",
         "location": [
-            52.20984,
-            0.11793
+            0,
+            0
         ],
-        "name": "the river bar steakhouse and grill",
+        "name": "Boutique Tapas & Petiscos",
         "phone": "01223307030",
         "postcode": "cb58aq",
         "pricerange": "cheap",
         "signature": "lobster mac and cheese",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "7236",
+        "nameMultiWoz": "the river bar steakhouse and grill"
     },
     {
         "address": "Rua da Sota 34 e 38",
