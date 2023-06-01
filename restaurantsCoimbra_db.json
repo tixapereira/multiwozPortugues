@@ -784,20 +784,22 @@
         "nameMultiWoz": "Fitzbillies restaurant"
     },
     {
-        "address": "108 Regent Street City Centre",
+        "address": "Rua Joao de Deus Ramos, nº20",
         "area": "centre",
         "food": "korean",
         "id": "19216",
-        "introduction": "little seoul offer a variety of korean cuisine for lunch and dinner",
+        "introduction": " ",
         "location": [
             52.200187,
             0.126407
         ],
-        "name": "little seoul",
+        "name": "Seoul Chicken",
         "phone": "01223308681",
         "postcode": "cb21dp",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19216",
+        "nameMultiWoz": "little seoul"
     },
     {
         "address": "R. Alexandre Herculano 16C",
