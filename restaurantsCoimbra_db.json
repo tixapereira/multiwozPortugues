@@ -1797,21 +1797,23 @@
         "nameMultiWoz": "shiraz restaurant"
     },
     {
-        "address": "Midsummer Common",
+        "address": "R. dos Gatos 8",
         "area": "centre",
         "food": "british",
         "id": "508",
         "introduction": "",
         "location": [
-            52.21251,
-            0.12774
+            40.208100,
+            -8.429392
         ],
-        "name": "midsummer house restaurant",
-        "phone": "01223369299",
-        "postcode": "cb41ha",
+        "name": "Toca do gato",
+        "phone": "962916904",
+        "postcode": "3000-200",
         "pricerange": "expensive",
-        "signature": "seared scallops with truffle apple and celeriac",
-        "type": "restaurant"
+        "signature": "",
+        "type": "restaurant",
+        "idMultiWoz": "508",
+        "nameMultiWoz": "midsummer house restaurant"
     },
     {
         "address": "Rua do Brasil N° 371",
