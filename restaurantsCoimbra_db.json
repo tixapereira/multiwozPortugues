@@ -837,20 +837,22 @@
         "nameMultiWoz": "dojo noodle bar"
     },
     {
-        "address": "15 Magdalene Street City Centre",
+        "address": "Av. Cónego Urbano Duarte 6",
         "area": "west",
         "food": "italian",
         "id": "19247",
-        "introduction": "la margherita serve a variety of italian and vegetarian dishes at their restaurant",
+        "introduction": "",
         "location": [
-            52.210226,
-            0.115646
+            40.193573,
+            -8.419919
         ],
-        "name": "la margherita",
-        "phone": "01223315232",
-        "postcode": "cb30af",
+        "name": "Toscana",
+        "phone": "239405792",
+        "postcode": "3030-315",
         "pricerange": "cheap",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19247",
+        "nameMultiWoz": "la margherita"
     },
     {
         "address": "R. Dom João III nº83",
