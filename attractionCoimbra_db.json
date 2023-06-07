@@ -180,20 +180,22 @@
         "nameMultiWoz": "cambridge arts theatre"
     },
     {
-        "address": "5 greens road",
+        "address": "R. Infantaria 23 312",
         "area": "east",
         "entrance fee": "free",
         "id": "11",
         "location": [
-            52.202271,
-            0.14702
+            40.206228,
+            -8.419311
         ],
-        "name": "cambridge artworks",
+        "name": "Casa Museu Bissaya Barreto",
         "openhours": "?",
-        "phone": "01223902168",
-        "postcode": "cb13ef",
+        "phone": "?",
+        "postcode": "3000-219",
         "pricerange": "free",
-        "type": "museum"
+        "type": "museum",
+        "idMultiWoz": "10",
+        "nameMultiWoz": "cambridge artworks"
     },
     {
         "address": "49 newnham road",
