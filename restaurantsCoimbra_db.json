@@ -993,21 +993,23 @@
         "type": "restaurant"
     },
     {
-        "address": "Corn Exchange Street",
+        "address": "R. Dr. Rosa Falcão 38",
         "area": "centre",
         "food": "gastropub",
         "id": "31390",
         "introduction": "",
         "location": [
-            52.204424,
-            0.12046
+            40.213538,
+            -8.432090
         ],
-        "name": "the cow pizza kitchen and bar",
-        "phone": "01223308871",
-        "postcode": "cb23qf",
+        "name": "Allô Pizza",
+        "phone": "239840400",
+        "postcode": "3000-229",
         "pricerange": "moderate",
-        "signature": "wasabi spiked hamburger",
-        "type": "restaurant"
+        "signature": "",
+        "type": "restaurant",
+        "idMultiWoz": "31390",
+        "nameMultiWoz": "the cow pizza kitchen and bar"
     },
     {
         "address": "Rua Adro de Baixo 5 a 7",
