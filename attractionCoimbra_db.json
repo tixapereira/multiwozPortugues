@@ -930,20 +930,22 @@
         "nameMultiWoz": "regency gallery"
     },
     {
-        "address": "cambridge passenger cruisers, jubilee house",
+        "address": "Av. Emídio Navarro",
         "area": "north",
         "entrance fee": "?",
         "id": "55",
         "location": [
-            52.229515,
-            0.111645
+            40.206087,
+            -8.428863
         ],
-        "name": "riverboat georgina",
+        "name": "Basófias",
         "openhours": "?",
-        "phone": "01223902091",
-        "postcode": "cb43ax",
+        "phone": "969830664",
+        "postcode": "3000-337",
         "pricerange": "?",
-        "type": "boat"
+        "type": "boat",
+        "idMultiWoz": "55",
+        "nameMultiWoz": "riverboat georgina"
     },
     {
         "address": "R. Dr. Manuel Rodrigues 5",
