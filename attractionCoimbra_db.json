@@ -1322,7 +1322,7 @@
         "type": "entertainment"
     },
     {
-        "address": "free school lane",
+        "address": "R. Fernando Pessoa 3, Coimbra",
         "area": "centre",
         "entrance fee": "free",
         "id": "78",
@@ -1330,12 +1330,14 @@
             52.203117,
             0.118928
         ],
-        "name": "whipple museum of the history of science",
-        "openhours": "it opens from 12:30 p.m. to 4:30 p.m. from monday to friday",
-        "phone": "01223330906",
+        "name": "Museu Miguel Torga",
+        "openhours": "",
+        "phone": "239781345",
         "postcode": "cb23rh",
         "pricerange": "free",
-        "type": "museum"
+        "type": "museum",
+        "idMultiWoz": "78",
+        "nameMultiWoz": "whipple museum of the history of science"
     },
     {
         "address": "gwydir street, no. 5 dale's brewery",
