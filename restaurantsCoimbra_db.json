@@ -733,20 +733,22 @@
         "nameMultiWoz": "the oak bistro"
     },
     {
-        "address": "4 Kings Parade City Centre",
+        "address": "R. Padre Estevão Cabral 15M",
         "area": "centre",
         "food": "british",
         "id": "19226",
-        "introduction": "the copper kettle serve a variety of english dishes at their restaurant including full english breakfasts lunches, roast dinners and baked potatoes. a takeaway menu is also provided",
+        "introduction": "",
         "location": [
-            52.204387,
-            0.117841
+            40.215904,
+            -8.436899
         ],
-        "name": "the copper kettle",
-        "phone": "01223365068",
-        "postcode": "cb21sj",
+        "name": "Nova Briosa",
+        "phone": "239055443",
+        "postcode": "3000-178",
         "pricerange": "moderate",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19226",
+        "nameMultiWoz": "the copper kettle"
     },
     {
         "address": "Estrada de Eiras 360",
