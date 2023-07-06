@@ -1032,20 +1032,22 @@
         "nameMultiWoz": "Bedouin"
     },
     {
-        "address": "2 Rose Crescent City Centre",
+        "address": "R. de Fernandes Thomas 45-49",
         "area": "centre",
         "food": "mediterranean",
         "id": "19238",
-        "introduction": "the gardenia serves a variety of authentic greek and mediterranean dishes at their restaurant catering for private parties of up to two five guests is available upon request",
+        "introduction": "",
         "location": [
-            52.206098,
-            0.118713
+            40.208384,
+            -8.428587
         ],
-        "name": "the gardenia",
-        "phone": "01223356354",
-        "postcode": "cb23ll",
+        "name": "Fangas maior",
+        "phone": "934093636",
+        "postcode": "3000-168",
         "pricerange": "cheap",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19238",
+        "nameMultiWoz": "the gardenia"
     },
     {
         "address": "Praça República 25C",
