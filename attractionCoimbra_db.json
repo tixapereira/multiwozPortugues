@@ -562,20 +562,22 @@
         "nameMultiWoz": "holy trinity church"
     },
     {
-        "address": "wollaston road",
+        "address": "R. Coutinhos 35",
         "area": "centre",
         "entrance fee": "free",
         "id": "33",
         "location": [
-            52.200692,
-            0.133253
+            40.209974,
+            -8.427920
         ],
-        "name": "hughes hall",
-        "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
-        "phone": "01223334898",
-        "postcode": "cb12ew",
+        "name": "Colégio de São Caetano",
+        "openhours": "",
+        "phone": "239823405",
+        "postcode": "3000-129",
         "pricerange": "free",
-        "type": "college"
+        "type": "college",
+        "idMultiWoz": "33",
+        "nameMultiWoz": "hughes hall"
     },
     {
         "address": "jesus lane",
