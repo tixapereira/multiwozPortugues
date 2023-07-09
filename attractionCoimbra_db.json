@@ -830,20 +830,22 @@
         "nameMultiWoz": "old schools"
     },
     {
-        "address": "gonville place",
+        "address": "Parque Residencial de S. Martinho",
         "area": "centre",
         "entrance fee": "?",
         "id": "49",
         "location": [
-            52.201275,
-            0.129935
+            40.209735,
+            -8.453801
         ],
-        "name": "parkside pools",
+        "name": "Piscinas Municipais Luís Lopes da Conceição",
         "openhours": "?",
-        "phone": "01223446100",
-        "postcode": "cb11ly",
+        "phone": "239801090",
+        "postcode": "3045-160",
         "pricerange": "?",
-        "type": "swimmingpool"
+        "type": "swimmingpool",
+        "idMultiWoz": "49",
+        "nameMultiWoz": "parkside pools"
     },
     {
         "address": "trumpington street",
