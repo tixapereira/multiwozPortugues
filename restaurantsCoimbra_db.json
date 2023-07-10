@@ -258,20 +258,22 @@
         "type": "restaurant"
     },
     {
-        "address": "11 Peas Hill City Centre",
+        "address": "Av. José Bonifácio de Andrada e Silva 1",
         "area": "centre",
         "food": "chinese",
         "id": "19242",
-        "introduction": "jinling noodle bar serves a wide range of chinese and shanghai dishes reflecting many different flavours and ingredients",
+        "introduction": "",
         "location": [
-            52.204453,
-            0.118693
+            40.211585,
+            -8.443543
         ],
-        "name": "jinling noodle bar",
-        "phone": "01223566188",
-        "postcode": "cb23pp",
+        "name": "Hanami Sushi",
+        "phone": "239812079",
+        "postcode": "3040-389",
         "pricerange": "moderate",
-        "type": "restaurant"
+        "type": "restaurant",
+         "idMultiWoz": "19242",
+        "nameMultiWoz": "jinling noodle bar"
     },
     {
         "address": "Largo Quintal do Prior nº 2 a 4 Terreiro da Erva",
