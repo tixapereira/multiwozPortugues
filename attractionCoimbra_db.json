@@ -1224,20 +1224,22 @@
         "nameMultiWoz": "the junction"
     },
     {
-        "address": "2 norfolk street",
+        "address": "Largo do Poço, nº3, 1º Andar",
         "area": "centre",
         "entrance fee": "?",
         "id": "72",
         "location": [
-            52.204746,
-            0.136515
+            40.210659,
+            -8.430123
         ],
-        "name": "the man on the moon",
+        "name": "Salão Brazil",
         "openhours": "?",
-        "phone": "01223474144",
-        "postcode": "cb12lf",
+        "phone": "239837078",
+        "postcode": "3000-335",
         "pricerange": "?",
-        "type": "concerthall"
+        "type": "concerthall",
+        "idMultiWoz": "72",
+        "nameMultiWoz": "the man on the moon"
     },
     {
         "address": "R. Moinho de Vento lote 6",
