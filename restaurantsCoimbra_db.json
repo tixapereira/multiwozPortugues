@@ -242,20 +242,22 @@
         "nameMultiWoz": "restaurant one seven"
     },
     {
-        "address": "12 Bridge Street City Centre",
+        "address": "Av. João das Regras 90",
         "area": "centre",
         "food": "italian",
         "id": "19229",
-        "introduction": "ask is a leading name in the uk casual dining market with over 100 restaurants across the uk. ask is the perfect place to relax and enjoy mouthwatering risottos an extended range of hearty al forno dishes and all your favourite pastas pizzas and salads",
+        "introduction": "",
         "location": [
-            52.209028,
-            0.118296
+            40.203828,
+            -8.433594
         ],
-        "name": "ask restaurant",
-        "phone": "01223364917",
-        "postcode": "cb21uf",
+        "name": "Ragu fresh pasta",
+        "phone": "913968625",
+        "postcode": "3040-256",
         "pricerange": "cheap",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19229",
+        "nameMultiWoz": "Ask"
     },
     {
         "address": "Av. José Bonifácio de Andrada e Silva 1",
