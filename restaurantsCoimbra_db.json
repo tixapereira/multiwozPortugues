@@ -88,20 +88,22 @@
         "type": "restaurant"
     },
     {
-        "address": "64 Cherry Hinton Road Cherry Hinton",
+        "address": "Terreiro da Erva 20",
         "area": "south",
         "food": "indian",
         "id": "19191",
-        "introduction": "taj tandoori serves a variety of indian dishes to eat in or take away catering for private parties of up to 50 guests is available upon request",
+        "introduction": "",
         "location": [
-            52.188747,
-            0.138941
+            40.212517,
+            -8.430947
         ],
-        "name": "taj tandoori",
-        "phone": "01223412299",
-        "postcode": "cb17aa",
+        "name": "Royal Tandoori",
+        "phone": "920203714",
+        "postcode": "3000-153",
         "pricerange": "expensive",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19191",
+        "nameMultiWoz": "taj tandoori"
     },
     {
         "address": "152 - 154 Hills Road",
