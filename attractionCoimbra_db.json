@@ -234,18 +234,20 @@
     {
         "address": "the old pumping station, cheddars lane",
         "area": "east",
-        "entrance fee": "5 pounds",
+        "entrance fee": "",
         "id": "14",
         "location": [
             52.21247,
             0.15619
         ],
-        "name": "cambridge museum of technology",
-        "openhours": "it opens on sunday from 2:00 p.m. to 5:00 p.m.",
+        "name": "Sala Da Cidade",
+        "openhours": "",
         "phone": "01223368650",
-        "postcode": "cb58ld",
+        "postcode": "3000-274",
         "pricerange": "expensive",
-        "type": "museum"
+        "type": "museum",
+        "idMultiWoz": "14",
+        "nameMultiWoz": "cambridge museum of technology"
     },
     {
         "address": "Calçada Martim de Freitas",
