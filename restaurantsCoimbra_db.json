@@ -1697,20 +1697,22 @@
         "type": "restaurant"
     },
     {
-        "address": "King Street City Centre",
+        "address": "Rua António Augusto Gonçalves 1",
         "area": "centre",
         "food": "turkish",
         "id": "19178",
-        "introduction": "efes restaurant serve a variety of turkish dishes including kebabs in truly authentic surroundings.",
+        "introduction": "",
         "location": [
-            52.207312,
-            0.124201
+            40.382847,
+            -8.745387
         ],
-        "name": "efes restaurant",
-        "phone": "01223500005",
-        "postcode": "cb11ln",
+        "name": "Kebab Mir Baba",
+        "phone": "239445168",
+        "postcode": "3040-375",
         "pricerange": "moderate",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19178",
+        "nameMultiWoz": "efes restaurant"
     },
     {
         "address": "Regent Street City Centre",
