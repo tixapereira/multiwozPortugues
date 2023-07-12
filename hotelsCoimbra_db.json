@@ -26,9 +26,9 @@
     },
     {
         "address": "Rua Antero de Quental",
-        "area": "centre",
+        "area": "north",
         "internet": "yes",
-        "parking": "no",
+        "parking": "yes",
         "id": "1",
         "location": [
             40.211601,
@@ -42,7 +42,7 @@
             "family": "90"
         },
         "pricerange": "moderate",
-        "stars": "0",
+        "stars": "4",
         "takesbookings": "yes",
         "type": "guesthouse",
         "idMultiWoz": "1",
@@ -52,7 +52,7 @@
         "address": "Rua Corpo de Deus, 140, 2º Andar",
         "area": "centre",
         "internet": "yes",
-        "parking": "no",
+        "parking": "yes",
         "id": "2",
         "location": [
             40.210867,
@@ -170,7 +170,7 @@
     },
     {
         "address": "Largo das Ameias 3-4",
-        "area": "centre",
+        "area": "north",
         "internet": "yes",
         "parking": "no",
         "id": "7",
@@ -403,7 +403,7 @@
             "double": "105"
         },
         "pricerange": "expensive",
-        "stars": "0",
+        "stars": "2",
         "takesbookings": "yes",
         "type": "hotel",
         "idMultiWoz": "16",
@@ -561,7 +561,7 @@
         "address": "Rua Antero de Quental, 203",
         "area": "centre",
         "internet": "yes",
-        "parking": "no",
+        "parking": "yes",
         "id": "23",
         "location": [
             40.211578,
@@ -574,8 +574,8 @@
             "double": "55",
             "family": "65"
         },
-        "pricerange": "cheap",
-        "stars": "0",
+        "pricerange": "moderate",
+        "stars": "4",
         "takesbookings": "yes",
         "type": "guesthouse",
         "idMultiWoz": "23",
@@ -774,7 +774,7 @@
             "single": "32"
         },
         "pricerange": "cheap",
-        "stars": "0",
+        "stars": "4",
         "takesbookings": "yes",
         "type": "guesthouse",
         "idMultiWoz": "31",
