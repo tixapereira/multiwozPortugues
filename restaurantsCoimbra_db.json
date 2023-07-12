@@ -585,20 +585,22 @@
         "nameMultiWoz": "bloomsbury restaurant"
     },
     {
-        "address": "17 Magdalene Street City Centre",
+        "address": "Largo Dr. José Rodrigues",
         "area": "west",
         "food": "vietnamese",
         "id": "19248",
-        "introduction": "thanh binh serve a variety of vietnamese dishes as well as selling an assortment of tea and coffees",
+        "introduction": "",
         "location": [
-            52.210226,
-            0.115646
+            0,
+            0
         ],
-        "name": "thanh binh",
-        "phone": "01223362456",
-        "postcode": "cb30af",
+        "name": "Loggia",
+        "phone": "239853076",
+        "postcode": "3000-236",
         "pricerange": "cheap",
-        "type": "restaurant"
+        "type": "restaurant",
+        "idMultiWoz": "19248",
+        "nameMultiWoz": "thanh binh"
     },
     {
         "address": "Beco do Fanado 9",
